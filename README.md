@@ -1,1 +1,1 @@
-# manetours
+https://maneeen.github.io/manetours/
